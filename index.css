@@ -47,7 +47,7 @@ header table {
     width:100%;
 }
 #logo {
-    width:30%;
+    width:45% !important;
 }
 #navigation {
     width:80%;
@@ -82,7 +82,7 @@ header table {
     margin:0px auto;
 }
 #logo {
-    font-size: 60px;
+    font-size: 55px;
     color:rgb(255, 44, 90);
 }
 #navigation {
