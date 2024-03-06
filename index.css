@@ -8,6 +8,13 @@ body {
     overflow-x:hidden;
     scroll-behavior: smooth;
 }
+.margins{
+margin-top: 10px;
+margin-right: 0px;
+margin-left: 0px;
+margin-bottom: 0px;
+}
+
 #loading {
     width: 100vw;
     height: 100vh;
